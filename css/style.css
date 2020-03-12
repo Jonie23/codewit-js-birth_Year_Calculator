@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aquamarine;
+}
+
+form{
+    display: block;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    font-weight: 2rem;
+    text-transform: capitalize;
+}
+
+#para{
+    padding-left: 40px;
+    margin-left: 40px;
+}
+
+#number{
+    width: 250px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 4px;
+    border: 2px solid black;
+}
+
+
+
+#btn{
+    cursor: pointer;
+    border-radius: 3px;
+    font-size: 1rem;
+    padding: 10px;
+    display: inline;
+    border: 2px solid black;
+}
